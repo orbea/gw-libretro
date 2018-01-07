@@ -3,6 +3,10 @@
 **gw-libretro** is a [libretro](http://www.libretro.com/) core that runs Game & Watch simulators.
 
 test1
+test2
+test3
+test4
+test5
 
 It runs simulators converted from source code for the games available at [MADrigal](http://www.madrigaldesign.it/sim/). Each simulator is converted with [pas2lua](https://github.com/leiradel/pas2lua), which was written specifically for this purpose, and uses [bstree](https://github.com/leiradel/bstree), which was also specifically written to obfuscate the generated Lua source code as per MADrigal's request.
 
