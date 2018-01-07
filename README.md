@@ -13,6 +13,8 @@ test8
 test9
 test10
 test11
+test12
+test13
 
 It runs simulators converted from source code for the games available at [MADrigal](http://www.madrigaldesign.it/sim/). Each simulator is converted with [pas2lua](https://github.com/leiradel/pas2lua), which was written specifically for this purpose, and uses [bstree](https://github.com/leiradel/bstree), which was also specifically written to obfuscate the generated Lua source code as per MADrigal's request.
 
